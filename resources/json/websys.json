@@ -1,0 +1,49 @@
+[{
+    "title": "Lab 6",
+    "desc": "PHP, OOP and Input Handling",
+    "path": "/projects/labs/lab6",
+    "instr": "lab6.html",
+    "sol": "lab6start.php"
+}, {
+    "title": "Lab 5",
+    "desc": "Front-end Optimization",
+    "path": "/projects/labs/lab5",
+    "instr": "lab5instructions.html",
+    "sol": "lab5start.html"
+}, {
+    "title": "Homework 2",
+    "desc": "Hexed jQuery Game / Plugin",
+    "path": "/projects/homework/homework2",
+    "instr": "ITWS2110-F16-W7C2-Homework2.docx",
+    "sol": "index.html"
+}, {
+    "title": "Lab 4",
+    "desc": "AJAX &amp; JSON",
+    "path": "/projects/labs/lab4",
+    "instr": "lab4instructions.html",
+    "sol": "lab4start.html"
+}, {
+    "title": "Lab 3",
+    "desc": "Javscript &amp; DOM",
+    "path": "/projects/labs/lab3",
+    "instr": "lab3instructions.html",
+    "sol": "lab3instructions.html"
+}, {
+    "title": "Lab 2",
+    "desc": "Playlist using CSS, HTML, &amp; XML",
+    "path": "/projects/labs/lab2",
+    "instr": "ITWS2110-F16-W4C2-Lab2-Instructions.html",
+    "sol": "eriksaulnier-lab2part3.html"
+}, {
+    "title": "Homework 1",
+    "desc": "Personal resume website",
+    "path": "/projects/homework/homework1",
+    "instr": "ITWS2110-F16-Assignment1-HTML,CSSandMicroformats.docx",
+    "sol": "eriksaulnier-hw1.html"
+}, {
+    "title": "Lab 1",
+    "desc": "AMP Stack, phpmyAdmin",
+    "path": "/projects/labs/lab1",
+    "instr": "ITW2110-F16-W3-Lab1-AMPStack.html",
+    "sol": "index.php"
+}]

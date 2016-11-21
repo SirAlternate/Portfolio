@@ -1,0 +1,65 @@
+{
+    "link": "ErikSaulnier_Resume_10062016_Generic.pdf",
+    "sections": {
+        "Skills": [
+            "C", "C++", "Java", "Python", "HTML", "CSS", "SASS", "Javascript",
+            "PHP", "JSON", "XML", "SQL"
+        ],
+        "Education": [{
+            "type": "school",
+            "degree": "B.S. Information Technology and Web Science",
+            "school": "Rensselaer Polytechnic Institute",
+            "location": "Troy, NY",
+            "graduation": "May 2019",
+            "link": "http://www.rpi.edu",
+            "desc": [
+                "ITWS Concentration in Web Technologies"
+            ]
+        }, {
+            "type": "school",
+            "degree": "Highschool",
+            "school": "The Doane Stuart School",
+            "location": "Rensselaer, NY",
+            "graduation": "May 2015",
+            "link": "http://www.doanestuart.org"
+        }],
+        "Work Experience": [{
+            "type": "company",
+            "company": "1st Playable Productions",
+            "location": "Troy, NY",
+            "position": "Programmer",
+            "date": "Winter 2015-Present",
+            "link": "http://www.1stplayable.com",
+            "desc": [
+                "Over the course of the summer worked on over 24 educational javascript games aimed for both English and non-English speakers ages 2-7.",
+                "Helped lead porting effort for making company’s previous Google Cardboard projects compatible with Samsung’s GearVR headset and preparing the titles for launch on the device’s official marketplace, creating internal documentation along the way for reference on future projects.",
+                "Held leading role in the logging, filtering and organization of over 1000 pages as part of a site audit preformed for a large electronics chain retailer."
+            ]
+        }, {
+            "type": "company",
+            "company": "Center For Initiatives in Pre-College Education (CIPCE)",
+            "location": "Troy, NY",
+            "position": "Laboratory Assistant",
+            "date": "Summer 2014/15",
+            "link": "http://www.cipce.rpi.edu",
+            "desc": [
+                "Ran summer programs on the campus of Rensselaer Polytechnic Institute for two summers teaching students various levels of LEGO robotics and how to use MIT’s Scratch software to make their own games (two separate one-week programs).",
+                "Developed curriculum for teaching students ages 8-10 how to use MIT’s Scratch software with only one week of hands-on time per group of kids including examples and activities designed to get the students to work together in teams.",
+                "Worked individually with students, helping them learn how to use problem-solving techniques in order to complete assigned challenges."
+            ]
+        }],
+        "Volunteer Work": [{
+            "type": "charity",
+            "organization": "Water Power Peace",
+            "location": "Tanzania, Africa",
+            "role": "Volunteer",
+            "date": "Summer 2012",
+            "link": "http://www.waterpowerpeace.org",
+            "desc": [
+                "Accompanied organization on trip to a small village in rural Tanzania to volunteer our time helping at the Sinai School, a local primary school in the area (ages 7 and up).",
+                "Prepared 10 laptops to be donated to the school as an effort to provide them the resources to offer computer and typing classes to both the students and locals in the village.",
+                "Taught computer lessons for a week at the school giving student’s an introduction to the typing software and ensuring the teachers were competent enough to continue through the software and continue teaching the class on their own."
+            ]
+        }]
+    }
+}

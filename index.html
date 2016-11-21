@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Erik Saulnier</title>
+        <meta name="description" content="I'm a developer and designer with a strong passion for technology.">
+
+        <!-- STYLESHEETS -->
+        <link type="text/css" rel="stylesheet" href="resources/css/bootstrap.min.css">
+        <link type="text/css" rel="stylesheet" href="resources/css/jquery-ui.min.css">
+        <link type="text/css" rel="stylesheet" href="resources/css/style.min.css">
+        <meta name="theme-color" content="#1a1e21">
+
+        <!-- FONTS -->
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7COpen+Sans:300,400,400i,600" rel="stylesheet">
+
+        <!-- FAVICON -->
+        <link rel="icon" type="image/png" sizes="192x192" href="resources/img/favicon/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="resources/img/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="resources/img/favicon/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="resources/img/favicon/favicon-16x16.png">
+    </head>
+
+    <body id="top" data-spy="scroll" data-target=".navbar-fixed-top">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header page-scroll">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand page-scroll" href="#top"><img src="resources\img\ErikSaulnier_Logo_2016_OnDark.png" alt="Erik Saulnier"></a>
+                </div>
+                <div class="collapse navbar-collapse navbar-collapse">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="hidden">
+                            <a class="page-scroll" href="#top"></a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#portfolio">Portfolio</a>
+                        </li>
+                        <!-- <li>
+							<a class="page-scroll" href="#about">About</a>
+						</li> -->
+                        <li>
+                            <a class="page-scroll" href="#resume">Resume</a>
+                        </li>
+                        <li class="special">
+                            <a class="page-scroll" href="#contact">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <!-- HOME -->
+        <section id="home">
+            <div class="container">
+                <h1>Welcome To My Site!</h1>
+                <h2>I'm a developer and designer with a strong passion for technology.</h2>
+                <a class="down-arrow page-scroll" href=""></a>
+            </div>
+        </section>
+
+        <!-- PORTFOLIO -->
+        <section id="portfolio">
+            <div class="container">
+                <h1>Portfolio</h1>
+                <h2>Interested in working together on a project? Head over to the
+                    <a class="page-scroll" href="#contact">contact</a>
+                    page and shoot me a message.</h2>
+                <div class="row showcase"></div>
+            </div>
+        </section>
+
+        <!-- ABOUT -->
+        <!-- <section id="about">
+			<div class="container">
+				<h1>About</h1>
+			</div>
+		</section> -->
+
+        <!-- RESUME -->
+        <section id="resume">
+            <div class="container">
+                <h1>Resume</h1>
+            </div>
+        </section>
+
+        <!-- CONTACT -->
+        <section id="contact">
+            <div class="container">
+                <h1>Contact</h1>
+                <form id="contact-form" method="post" action="resources/php/contact.php">
+                    <div class="messages"></div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="name">Your Name *</label>
+                                <input id="name" type="text" name="name" class="form-control" placeholder="" required="required" data-error="Your name is required">
+                                <div class="help-block with-errors"></div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="email">Email *</label>
+                                <input id="email" type="email" name="email" class="form-control" placeholder="" required="required" data-error="Your email is required">
+                                <div class="help-block with-errors"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label for="message">Message *</label>
+                                <textarea id="message" type="text" name="message" class="form-control" placeholder="" rows="10" required="required" data-error="Some sort of message is required"></textarea>
+                                <div class="help-block with-errors"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 send">
+                            <input type="submit" class="btn btn-success btn-send" value="Send Message">
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </section>
+
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <ul class="social">
+                            <p>Find me on:</p>
+                            <li>
+                                <a class="twitter" href="https://twitter.com/siralternate" target="_blank"></a>
+                            </li>
+                            <li>
+                                <a class="behance" href="https://www.behance.net/eriksaulnier" target="_blank"></a>
+                            </li>
+                            <li>
+                                <a class="flickr" href="https://www.flickr.com/photos/eriksaulnier" target="_blank"></a>
+                            </li>
+                            <li>
+                                <a class="linkedin" href="https://www.linkedin.com/in/eriksaulnier" target="_blank"></a>
+                            </li>
+                            <li>
+                                <a class="github" href="https://github.com/SirAlternate" target="_blank"></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 copyright">
+                        &copy; 2016 Erik Saulnier, All rights reserved.
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <!-- SCRIPTS -->
+        <script type="text/javascript" src="resources/js/jquery.min.js"></script>
+        <script type="text/javascript" src="resources/js/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="resources/js/validator.min.js"></script>
+        <script type="text/javascript" src="resources/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="resources/js/scripts.min.js"></script>
+    </body>
+</html>

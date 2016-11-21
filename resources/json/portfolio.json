@@ -1,0 +1,36 @@
+[{
+    "title": "This Site!",
+    "img": "eriksaulnier_web.jpg",
+    "year": "2016",
+    "short_desc": "Web Design &amp; Development",
+    "link": "https://www.eriksaulnier.com",
+    "link_text": "You're already here!"
+}, {
+    "title": "Rogue eSports",
+    "img": "rogueesports_web.jpg",
+    "year": "2016",
+    "short_desc": "Web Concept Design",
+    "link": "https://www.behance.net/gallery/43700467/Rogue-eSports-Website-Concept",
+    "link_text": "View on Behance"
+}, {
+    "title": "LunatiK eSports",
+    "img": "lunatikesports_web.jpg",
+    "year": "2016",
+    "short_desc": "Wordpress Theme Design &amp; Development",
+    "link": "https://www.lunatik.pro",
+    "link_text": "View Project"
+}, {
+    "title": "Sneaky Spanish",
+    "img": "sneakyspanish_app.jpg",
+    "year": "2015",
+    "short_desc": "Chrome Extension",
+    "link": "https://chrome.google.com/webstore/detail/sneaky-spanish/fmbgmlhpadiloggofeliagghggmopgbk",
+    "link_text": "View on the Chrome Web Store"
+}, {
+    "title": "Initialize eSports",
+    "img": "initializeesports_logo.jpg",
+    "year": "2015",
+    "short_desc": "Logo Design &amp; Branding",
+    "link": "https://www.behance.net/gallery/33834060/Initialize-eSports",
+    "link_text": "View on Behance"
+}]
